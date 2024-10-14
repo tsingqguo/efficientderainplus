@@ -59,8 +59,6 @@ sh test.sh
 
 ## Results
 
-The specific results can be found in “**./results/data/DERAIN.xlsx**”
-
 <img align="center" src="./rain100hEfderainp.png" swidth="750">
 
 <img align="center" src="./spaEfderainp.png" swidth="750">
