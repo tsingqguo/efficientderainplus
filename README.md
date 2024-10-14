@@ -1,7 +1,7 @@
 # EfficientDerain+
 We further extend the efficientderain in https://github.com/tsingqguo/efficientderain via a novel predictive filtering framework. More details could be found in our pre-print version: https://arxiv.org/abs/2201.02366. 
 
-<img align="center" src="./results/efderainplus_structure.png" swidth="750">
+<img align="center" src="./efderainplus_structure.png" swidth="750">
 
 ## Requirements
 
@@ -60,9 +60,9 @@ sh test.sh
 
 The specific results can be found in “**./results/data/DERAIN.xlsx**”
 
-<img align="center" src="./results/rain100hEfderainp.png" swidth="750">
+<img align="center" src="./rain100hEfderainp.png" swidth="750">
 
-<img align="center" src="./results/spaEfderainp.png" swidth="750">
+<img align="center" src="./spaEfderainp.png" swidth="750">
 
 ## Bibtex
 
